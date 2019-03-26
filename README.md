@@ -1,3 +1,6 @@
+
+This repository was cloned from: https://gitlab.common-lisp.net/cungil/tensorflow
+
 ```
 % sbcl --load examples/prediction.lisp
 
